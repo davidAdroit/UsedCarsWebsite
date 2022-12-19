@@ -1,6 +1,6 @@
 ###
 '''
-David Burris-Mendoza
+
 
 Final CS230 Project
 '''
